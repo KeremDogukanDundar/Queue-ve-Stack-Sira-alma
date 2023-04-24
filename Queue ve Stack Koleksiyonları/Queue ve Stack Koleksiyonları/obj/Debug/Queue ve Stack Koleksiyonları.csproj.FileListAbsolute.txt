@@ -1,0 +1,10 @@
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\bin\Debug\Queue ve Stack Koleksiyonları.exe.config
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\bin\Debug\Queue ve Stack Koleksiyonları.exe
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\bin\Debug\Queue ve Stack Koleksiyonları.pdb
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue ve Stack Koleksiyonları.csproj.AssemblyReference.cache
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue_ve_Stack_Koleksiyonları.Form1.resources
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue_ve_Stack_Koleksiyonları.Properties.Resources.resources
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue ve Stack Koleksiyonları.csproj.GenerateResource.cache
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue ve Stack Koleksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue ve Stack Koleksiyonları.exe
+C:\Users\KRM-PC\Desktop\Queue ve Stack Koleksiyonları\Queue ve Stack Koleksiyonları\obj\Debug\Queue ve Stack Koleksiyonları.pdb
